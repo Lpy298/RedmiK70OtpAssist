@@ -1,0 +1,17 @@
+{
+  "bitmap":{"width":706,"height":1568},"source":"12 user-provided Redmi K70/WeChat screenshots",
+  "pages":[
+    {"id":"A","file":"d7763fe5-e52a-4cd1-8e00-1c8ce24778de.png","page":"RECENT_MINIPROGRAMS","texts":[{"text":"最近","bounds":[332,103,374,132]},{"text":"北大肿…","bounds":[44,319,116,343]}],"expectedClick":[80,280]},
+    {"id":"B","file":"36bc5331-492e-4771-9c39-a358080381df.png","page":"HOME","texts":[{"text":"北京大学肿瘤医院","bounds":[19,79,171,105]},{"text":"预约挂号","bounds":[126,288,183,315]},{"text":"患者到院就诊","bounds":[114,316,196,338]}],"expectedClick":[155,313]},
+    {"id":"C","file":"b8fd1583-ae16-489e-9163-29972a1df74a.png","page":"REGISTRATION_ENTRY","texts":[{"text":"预约挂号","bounds":[309,78,397,106]},{"text":"门诊号源","bounds":[69,223,141,252]}],"expectedClick":[105,240]},
+    {"id":"D","file":"5a60af78-5528-4ca6-8628-c240a6903dc7.png","page":"PATIENT_PICKER","texts":[{"text":"选择就诊人","bounds":[304,467,401,493]},{"text":"EXACT_PATIENT","bounds":[250,607,302,635]}],"expectedClick":[276,621]},
+    {"id":"E","file":"c63544d4-1efe-420f-883a-74873b81eb57.png","page":"DEPARTMENT_LIST","texts":[{"text":"科室列表","bounds":[317,78,390,106]},{"text":"肿瘤内科","bounds":[26,1295,93,1322]}],"expectedClick":[60,1308]},
+    {"id":"F","file":"f6b83b83-7e58-4985-acf2-3fa941f4563a.png","page":"DEPARTMENT_LIST","texts":[{"text":"胸部肿瘤内一科门诊","bounds":[321,737,487,764]}],"expectedClick":[404,750]},
+    {"id":"G","file":"869244d1-dee4-411d-8137-6cb51496a540.png","page":"DEPARTMENT_SLOTS","texts":[{"text":"9","bounds":[67,352,82,379]},{"text":"10","bounds":[130,352,153,379]}],"expectedClick":[141,365]},
+    {"id":"H","file":"636f0407-d2da-406e-adcc-bb2ae516c423.png","page":"DEPARTMENT_SLOTS","texts":[{"text":"10","bounds":[130,352,153,379]},{"text":"即将放号","bounds":[123,401,162,421]}],"expectedClick":[141,365]},
+    {"id":"I","file":"f4a34412-eea6-4c74-b2d2-68ca46a64c9f.png","page":"DEPARTMENT_SLOTS","texts":[{"text":"TARGET_DOCTOR","bounds":[292,1015,349,1042]},{"text":"剩余 7","bounds":[602,1013,655,1043]}],"expectedClick":[628,1028]},
+    {"id":"J","file":"72182553-ddf9-4b88-9089-d174628581b6.png","page":"TIME_PICKER","texts":[{"text":"请选择就诊时间","bounds":[292,764,414,792]},{"text":"15:00~15:30","bounds":[68,822,194,853]},{"text":"15:30~16:00","bounds":[280,822,408,853]}],"expectedClick":[131,837]},
+    {"id":"K","file":"9e9a4005-d543-47db-a866-fce87049685a.png","page":"BOOKING_CONFIRM","texts":[{"text":"确认挂号信息","bounds":[306,78,400,106]},{"text":"确认挂号","bounds":[252,1320,454,1373]}],"expectedClick":[353,1346]},
+    {"id":"L","file":"4c7a2dd9-da30-46fa-93e7-8390241edf61.png","page":"SYSTEM_DIALOG","texts":[{"text":"系统提示","bounds":[329,557,390,584]},{"text":"确认","bounds":[537,834,579,861]}],"expectedClick":[558,847]}
+  ]
+}
